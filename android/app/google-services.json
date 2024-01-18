@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619230704844",
+    "project_id": "notifans-47d4f",
+    "storage_bucket": "notifans-47d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619230704844:android:e8c2055f8543bb30997e69",
+        "android_client_info": {
+          "package_name": "com.example.notifer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619230704844-lj183f70qqb9laorr011v42gbceqs023.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notifer",
+            "certificate_hash": "7cd1ca3a92a5e7e572c83b1c18d46337392782dd"
+          }
+        },
+        {
+          "client_id": "619230704844-8rdblc9229m6nb6mdaj83vr8dr0niicq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3iMwKkoqn75kDB6rsCukFUU5k_rL7es4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619230704844-8rdblc9229m6nb6mdaj83vr8dr0niicq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
